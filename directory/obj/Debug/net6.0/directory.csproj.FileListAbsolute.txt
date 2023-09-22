@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\directory.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\directory.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\directory.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\directory.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\RecurcionL7\directory\bin\Debug\net6.0\directory.exe
+C:\Users\ILYA\Desktop\RecurcionL7\directory\bin\Debug\net6.0\directory.deps.json
+C:\Users\ILYA\Desktop\RecurcionL7\directory\bin\Debug\net6.0\directory.runtimeconfig.json
+C:\Users\ILYA\Desktop\RecurcionL7\directory\bin\Debug\net6.0\directory.dll
+C:\Users\ILYA\Desktop\RecurcionL7\directory\bin\Debug\net6.0\directory.pdb
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\directory.dll
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\refint\directory.dll
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\directory.pdb
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\directory.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\RecurcionL7\directory\obj\Debug\net6.0\ref\directory.dll
