@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\bin\Debug\net6.0\findWords.exe
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\bin\Debug\net6.0\findWords.deps.json
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\bin\Debug\net6.0\findWords.runtimeconfig.json
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\bin\Debug\net6.0\findWords.dll
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\bin\Debug\net6.0\findWords.pdb
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\findWords.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\findWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\findWords.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\findWords.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\findWords.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\findWords.dll
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\refint\findWords.dll
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\findWords.pdb
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\findWords.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\RecurcionL7\findWords\obj\Debug\net6.0\ref\findWords.dll
