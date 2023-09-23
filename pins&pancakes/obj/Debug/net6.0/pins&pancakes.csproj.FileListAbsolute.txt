@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\bin\Debug\net6.0\pins&pancakes.exe
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\bin\Debug\net6.0\pins&pancakes.deps.json
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\bin\Debug\net6.0\pins&pancakes.runtimeconfig.json
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\bin\Debug\net6.0\pins&pancakes.dll
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\bin\Debug\net6.0\pins&pancakes.pdb
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\pins&pancakes.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\pins&pancakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\pins&pancakes.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\pins&pancakes.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\pins&pancakes.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\pins&pancakes.dll
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\refint\pins&pancakes.dll
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\pins&pancakes.pdb
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\pins&pancakes.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\RecurcionL7\pins&pancakes\obj\Debug\net6.0\ref\pins&pancakes.dll
