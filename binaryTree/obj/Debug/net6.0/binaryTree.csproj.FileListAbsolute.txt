@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\bin\Debug\net6.0\binaryTree.exe
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\bin\Debug\net6.0\binaryTree.deps.json
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\bin\Debug\net6.0\binaryTree.runtimeconfig.json
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\bin\Debug\net6.0\binaryTree.dll
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\bin\Debug\net6.0\binaryTree.pdb
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\binaryTree.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\binaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\binaryTree.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\binaryTree.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\binaryTree.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\binaryTree.dll
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\refint\binaryTree.dll
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\binaryTree.pdb
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\binaryTree.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\RecurcionL7\binaryTree\obj\Debug\net6.0\ref\binaryTree.dll
